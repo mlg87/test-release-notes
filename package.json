@@ -18,7 +18,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "release": "node_modules/.bin/release-it --config ./.release-it.yml"
+    "release": "node_modules/.bin/release-it --ci --config ./.release-it.yml"
   },
   "eslintConfig": {
     "extends": "react-app"
