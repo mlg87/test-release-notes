@@ -1,5 +1,7 @@
 git:
   - tagName: "v${version}"
   - commitMessage: "Chore: release v${version}"
+github:
+  - release: true
 npm:
   - publish: false
