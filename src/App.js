@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Nah
+          this will be squashed
         </a>
       </header>
     </div>
