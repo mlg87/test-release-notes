@@ -1,0 +1,5 @@
+git:
+  - tagName: "v${version}"
+  - commitMessage: "Chore: release v${version}"
+npm:
+  - publish: false
