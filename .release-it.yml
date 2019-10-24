@@ -1,7 +1,7 @@
 git:
-  - tagName: "v${version}"
-  - commitMessage: "Chore: release v${version}"
+  tagName: "v${version}"
+  commitMessage: "Chore: release v${version}"
 github:
-  - release: true
+  release: true
 npm:
-  - publish: false
+  publish: false
